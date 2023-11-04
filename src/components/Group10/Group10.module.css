@@ -1,0 +1,150 @@
+.logIn {
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1016.7786px;
+  top: 161px;
+  width: 293.9956px;
+  height: 28.1088px;
+  flex-direction: column;
+}
+.rectangle7 {
+  position: absolute;
+  left: 833px;
+  top: 309.7804px;
+  width: 493px;
+  height: 68.5757px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.password {
+  color: #1c1c1c;
+  font-size: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 905.9619px;
+  top: 334.0964px;
+  width: 306.7227px;
+  height: 28.1088px;
+  flex-direction: column;
+}
+.frame {
+  position: absolute;
+  left: 857.3792px;
+  top: 328.2431px;
+  width: 32.5055px;
+  height: 31.6503px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle6 {
+  position: absolute;
+  left: 833px;
+  top: 215.0228px;
+  width: 493px;
+  height: 68.5757px;
+  border-radius: 16px;
+  background-color: #f0edffcc;
+}
+.username {
+  color: #1c1c1c;
+  font-size: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 905.9619px;
+  top: 241.2151px;
+  width: 313.0862px;
+  height: 19.554px;
+  flex-direction: column;
+}
+.frame2 {
+  position: absolute;
+  left: 857.3792px;
+  top: 233.4855px;
+  width: 32.5055px;
+  height: 31.6503px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle8 {
+  position: absolute;
+  left: 995.5275px;
+  top: 406.34px;
+  width: 167.9451px;
+  height: 68.5757px;
+  border-radius: 16px;
+  background-image: linear-gradient(111.8deg, #9181f4ff 0%, #5038edff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  box-shadow: inset 0px 8px 21px 0px #00000029;
+}
+.sIGNIN {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1043.8864px;
+  top: 427.9811px;
+  width: 85.3269px;
+  height: 23.7377px;
+  flex-direction: column;
+}
+.rectangle72 {
+  position: absolute;
+  left: 832px;
+  top: 527.4243px;
+  width: 493px;
+  height: 68.5757px;
+  outline: solid 1px #f0edff;
+  outline-offset: -1px;
+  border-radius: 16px;
+}
+.loginWithNITMail {
+  position: absolute;
+  left: 1032.9601px;
+  top: 547.522px;
+  width: 207.4514px;
+  height: 24.4425px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #1c1c1c;
+  font-size: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #1c1c1c;
+  font-size: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.google1 {
+  position: absolute;
+  left: 974.62px;
+  top: 541.9308px;
+  width: 40.6319px;
+  height: 39.5629px;
+  background-image:/* webpackIgnore: true */ url('assets/google1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
